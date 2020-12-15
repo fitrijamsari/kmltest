@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SPAN 21-22_ROAD.kml</name>
+	<Style id="line1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1134fa</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Line Type<BR><BR><B>LAYER</B> = Unknown Line Type<BR><B>OBJECTID</B> = 5<BR><B>SHAPE_Leng</B> = 3.87233242679e-004]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.637426143,3.257572425000001,0 101.6374584616,3.25752756,0 101.6374953201,3.2574863433,0 101.6375363096,3.2574492323,0 101.6375809752,3.257416638600001,0 101.6376288214,3.2573889239,0 101.6376793174,3.2573663957,0 101.637731903,3.257349303999999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

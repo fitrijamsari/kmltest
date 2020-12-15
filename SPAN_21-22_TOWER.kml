@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SPAN 21-22_TOWER.kml</name>
+	<Style id="area1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffdf73</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>b3000000</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Area Features</name>
+		<description>Area Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>GM_LAYER</B> = Unknown Area Type<BR><B>LAYER</B> = Unknown Area Type<BR><B>SHAPE_Leng</B> = 2.76295445661e-004<BR><B>BUFF_DIST</B> = <BR><B>ORIG_FID</B> = <BR><B>SPAN</B> = <BR><B>OBJECTID</B> = 4<BR><B>SHAPE_Area</B> = 4.13799448356e-009]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							101.635993288,3.254771082,0 101.63597072,3.254732521,0 101.636051908,3.254684756,0 101.636073751,3.254721974,0 101.635993288,3.254771082,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>GM_LAYER</B> = Unknown Area Type<BR><B>LAYER</B> = Unknown Area Type<BR><B>SHAPE_Leng</B> = 5.35773983644e-004<BR><B>BUFF_DIST</B> = <BR><B>ORIG_FID</B> = <BR><B>SPAN</B> = <BR><B>OBJECTID</B> = 7<BR><B>SHAPE_Area</B> = 1.40162320280e-008]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							101.637655736,3.257607789,0 101.637619749,3.257610894,0 101.637587723,3.257554977,0 101.637673725,3.2574137,0 101.637700162,3.257458176,0 101.637740849,3.257452585,0 101.637655736,3.257607789,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
